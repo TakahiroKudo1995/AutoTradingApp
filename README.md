@@ -1,1 +1,1 @@
-# AutoTradingSystem
+# AutoTrading
