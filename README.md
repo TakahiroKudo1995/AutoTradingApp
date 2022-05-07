@@ -1,1 +1,1 @@
-# AutoTrading
+# AutoTradingApp
